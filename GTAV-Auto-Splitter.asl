@@ -477,6 +477,7 @@ startup
 
 	vars.collectibleIDs = new Dictionary<int, string> {
 		{0x4FD4, "Under the Bridges"},
+		{0x4361, "Knife Flights"},
 		{0x2B6C, "Letter Scraps"},
 		{0x1A1, "Spaceship Parts"},
 		{0x132A, "Submarine Pieces"},
